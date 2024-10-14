@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.face52e0.css",
+    "main.js": "/static/js/main.61729181.js",
+    "static/media/letsStart.gif": "/static/media/letsStart.202ef30d2f0a2e1cfb59.gif",
+    "static/media/winter.png": "/static/media/winter.cdb0bddaf2ed59613612.png",
+    "static/media/fixbg.jpg": "/static/media/fixbg.0a9e44a2dbc6e3bc06b7.jpg",
+    "static/media/flexibility.png": "/static/media/flexibility.77fcaeeb8c8a00717079.png",
+    "static/media/integral.png": "/static/media/integral.9384a06f668588a1639c.png",
+    "static/media/calculus.png": "/static/media/calculus.729d7d27a187f4d36ace.png",
+    "static/media/balance.png": "/static/media/balance.0527db71102156ee6fee.png",
+    "static/media/solve.png": "/static/media/solve.0a37a541b6a3c870bae8.png",
+    "static/media/logarithm.png": "/static/media/logarithm.dff7104ee41cbca67426.png",
+    "static/media/circle.png": "/static/media/circle.945b52a52f3303f842de.png",
+    "static/media/factors.png": "/static/media/factors.37d30a36a34307fd7b16.png",
+    "static/media/system.png": "/static/media/system.2ad694155a8d5c8e074f.png",
+    "static/media/math.png": "/static/media/math.01c409531ebf09ab63f4.png",
+    "static/media/recycle.png": "/static/media/recycle.004d4c8b325885317b74.png",
+    "static/media/line-chart.png": "/static/media/line-chart.3b26012647c4245d9b1a.png",
+    "static/media/quardratic.png": "/static/media/quardratic.7ee884ae43ca36495116.png",
+    "static/media/calculator.png": "/static/media/calculator.36457bae31ae12bf5730.png",
+    "static/media/mean.png": "/static/media/mean.d4bd53d1a28b021955d2.png",
+    "static/media/varience.png": "/static/media/varience.345b29da347a48f831af.png",
+    "static/media/average.png": "/static/media/average.d314fcdd9616d24b0b5a.png",
+    "static/media/geometry.png": "/static/media/geometry.c176a34d987c1d5ae78c.png",
+    "static/media/median.png": "/static/media/median.5406014eb9ebd3ff138b.png",
+    "static/media/documents.png": "/static/media/documents.1c3988919cfa1655e8c2.png",
+    "static/media/analytics.png": "/static/media/analytics.293650d4403622ed7949.png",
+    "static/media/quardratmean.png": "/static/media/quardratmean.109bc353a0a07dc1b006.png",
+    "static/media/menu.png": "/static/media/menu.fe06cec2c0604e6bd8f5.png",
+    "static/media/linear.png": "/static/media/linear.43afc6ad28d1aaa3e9ce.png",
+    "static/media/mode.png": "/static/media/mode.aae68974aed77c72f51b.png",
+    "index.html": "/index.html",
+    "main.face52e0.css.map": "/static/css/main.face52e0.css.map",
+    "main.61729181.js.map": "/static/js/main.61729181.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.face52e0.css",
+    "static/js/main.61729181.js"
+  ]
+}
